@@ -32,6 +32,8 @@ I'm a Computer Science major and a self-motivated worker who has various skills 
 
 ### 📁 Some of My Course Work:
 
-- Coming Soon
+<a href="https://github.com/JustAnotherDaemon/Data_Structures_Project5" target="_blank">C++ Project</a>
+
+- More projects coming soon.
 
 #
