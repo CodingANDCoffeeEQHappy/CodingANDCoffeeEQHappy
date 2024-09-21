@@ -7,15 +7,6 @@ I'm a Computer Science major and a self-motivated worker who has various skills 
 
 #
 
-- What am I currently up to? 🗓
-    - Looking for an internship.
-    - Learning more about web development. 
-- What are my next goals/projects? 🏗
-    - I am planning to build some fun stuff with Three.js and learn more web frameworks.
-    - I also plan to have some more fun with microcontollers and see what wild things I can come up with. 😁
-
-#
-
 ### 🧰 My Tool Chest:
 
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -33,7 +24,5 @@ I'm a Computer Science major and a self-motivated worker who has various skills 
 ### 📁 Some of My Course Work:
 
 <a href="https://github.com/JustAnotherDaemon/Data_Structures_Project5" target="_blank">C++ Project</a>
-
-- More projects coming soon.
 
 #
