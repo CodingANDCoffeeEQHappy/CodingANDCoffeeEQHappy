@@ -1,5 +1,4 @@
 <h1 align="center">🧑‍💻 JustAnotherDaemon 🧑‍💻</h1>
-<h2 align="center"><i>CS Student</i></h2>
 
 I'm a Computer Science major and a self-motivated worker who has various skills such as programming experience in Python, C++, Java, and web development. I have also done some basic microcontroller programming in the past and I have cybersecurity and networking experience. I enjoy learning about recent technologies and their implementation into applications and I am excited to jumpstart my career with this in mind. Thank you for visiting my page and learning more about me.
 
